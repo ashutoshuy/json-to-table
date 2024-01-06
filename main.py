@@ -51,3 +51,5 @@ data = load_data('data.json')
 
 # Run the app
 streamlit_app(data)
+
+# test
