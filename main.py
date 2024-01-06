@@ -10,7 +10,7 @@ def load_data(file_path):
 
 # Convert member details to dataframe
 def member_details_to_df(member_data):
-    return pd.DataFrame([member_data])
+    return pd.DataFrame([member_data]).transpose()
 
 # Convert products to dataframe
 def products_to_df(products):
@@ -18,14 +18,14 @@ def products_to_df(products):
     for product in products:
         product_info = {key: product[key] for key in product if key != 'ingredients'}
         products_list.append(product_info)
-    return pd.DataFrame(products_list)
+    return pd.DataFrame(products_list).transpose()
 
 # Convert ingredients to dataframe
 def ingredients_to_df(ingredients):
     ingredients_list = []
     for ingredient in ingredients:
         ingredients_list.append(ingredient)
-    return pd.DataFrame(ingredients_list)
+    return pd.DataFrame(ingredients_list).transpose()
 
 # Streamlit app
 def streamlit_app(data):
