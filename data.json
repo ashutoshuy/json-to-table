@@ -1,0 +1,1191 @@
+{
+  "data": {
+    "getPreliminaryPlan": {
+      "id": "wbfg8grdg4owbfq5osflpharoblgdvo4",
+      "status": "created",
+      "createdAt": "2024-01-04T11:51:04.421Z",
+      "expiresAt": null,
+      "member": {
+        "anonymousId": "4Go5r0ULZDQTRG+LMGoO8gDDuaSqI1BXFXAu1LJAORk=",
+        "firstName": "Bupendra",
+        "lastName": "Jogi",
+        "name": "Bupendra Jogi",
+        "email": "bupendra.jogi@instagram.com",
+        "affiliations": null,
+        "age": 22,
+        "sex": "Female",
+        "diets": [
+          "None"
+        ],
+        "sports": [
+          "I don't do any exercise/sports"
+        ],
+        "goals": [
+          "Boost cardiovascular fitness"
+        ],
+        "targeting": null,
+        "__typename": "Member"
+      },
+      "products": [
+        {
+          "id": "5539bef0-689c-4441-854e-f81528cf2ce8",
+          "slug": null,
+          "name": "Elo 500g Protein",
+          "category": "dietarySupplement",
+          "features": [
+            "proteinPackage"
+          ],
+          "pricing": [],
+          "shortDescription": null,
+          "longDescription": null,
+          "serving": {
+            "unit": "g",
+            "quantity": 35.6,
+            "__typename": "Serving"
+          },
+          "servingCount": 14,
+          "products": [
+            {
+              "id": "cc9faab8-e2c4-4fde-b63d-9a9f127970d3",
+              "slug": null,
+              "name": "Multivitamin",
+              "category": "dietarySupplement",
+              "features": [
+                "proteinBooster"
+              ],
+              "pricing": null,
+              "shortDescription": "Offering a combination of vitamins and minerals, this blend helps fill nutrition gaps and optimize metabolic processes.",
+              "longDescription": null,
+              "serving": {
+                "unit": null,
+                "quantity": 1,
+                "__typename": "Serving"
+              },
+              "servingCount": null,
+              "products": null,
+              "ingredients": [
+                {
+                  "id": "460f5dbf-169f-4f42-80a2-20d80dfa7d66",
+                  "slug": "calcium",
+                  "name": "Calcium (Amino Acid Chelate, Ascorbate, Carbonate, Citrate)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "8a78c47b-d77b-4dd5-975c-bf6641da941d",
+                  "slug": "magnesium",
+                  "name": "Magnesium (Magnesium Oxide, Magnesium Amino Acid Chelate, TRAACS Mg Glycinate)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "7b5d4990-a163-4633-8432-a1346086499a",
+                  "slug": "zinc",
+                  "name": "Zinc (Bisglycinate Chelate, Monomethionine, Amino Acid Chelate)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "bdae4ede-40a9-4c40-b808-d49c13dbef86",
+                  "slug": "choline",
+                  "name": "Choline (Choline Bitartrate, Citicoline-Cognizin®, Citicoline CDP choline)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "f7de6b6f-551f-462f-a6eb-dcae124c8f1d",
+                  "slug": "vitamin-a",
+                  "name": "Vitamin A (Acetate, Beta Carotene, as natural Beta Carotene, D. Salina, From Fish Liver Oil, Retinyl Palmitate)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "d06c8026-1d6a-45b3-9cf9-3c3dc1045d9c",
+                  "slug": "thiamine",
+                  "name": "Vitamin B-1 (Thiamine Mononitrate)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "5ad7f32a-d28f-4411-8c08-86c0aac3b5f6",
+                  "slug": "riboflavin",
+                  "name": "Vitamin B-2 (Riboflavin)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "936b0475-6001-495e-aace-9a8df70f5ff7",
+                  "slug": "niacin",
+                  "name": "Vitamin B-3 (Niacin as Niacinamide)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "eb79dea7-e0d6-4f98-9de0-eb77921ee0b1",
+                  "slug": "vitamin-b-5",
+                  "name": "Vitamin B-5 (Calcium Pantothenate)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "c9657d6b-c8c8-49e0-97ec-ac2f008de26b",
+                  "slug": "vitamin-b-6",
+                  "name": "Vitamin B-6 (Pyridoxine Hydrochloride)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "f6b74000-8b07-49a5-9064-aca6f48bcbcb",
+                  "slug": "biotin",
+                  "name": "Vitamin B-7 (Biotin)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "de7ec11e-edff-4199-960a-51bf97973fa7",
+                  "slug": "vitamin-b-12",
+                  "name": "Vitamin B-12 (as Methylcobalamin, Cyanocobalamin)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "361b6f63-eb78-40f3-97e3-765c761fa089",
+                  "slug": "vitamin-c",
+                  "name": "Vitamin C (Ascorbic Acid, Rose Hips, Calcium and Sodium Ascorbate, PureWay-C®)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "2747ae71-4fb6-422f-83dc-f5600234b87e",
+                  "slug": "vitamin-e",
+                  "name": "Vitamin E (D-Alpha Tocopherol Succinate, natural d-Alpha tocophero)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "21c302b2-ac3d-4484-97b3-891c1a172f6a",
+                  "slug": "vitamin-d3",
+                  "name": "Vitamin D (From Fish Liver Oil, Cholecalciferol, as cholecalciferol-Lichen)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "b73e61be-7a71-4822-87bf-842fad52de15",
+                  "slug": "vitamin-k",
+                  "name": "Vitamin K (Phytonadione & Menaquinone-7)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                }
+              ],
+              "assessments": [
+                {
+                  "type": "BMI",
+                  "name": "Obese",
+                  "slug": "bmi-obese",
+                  "__typename": "Assessment"
+                },
+                {
+                  "type": "Calcium Intake",
+                  "name": "Low",
+                  "slug": "calcium-intake-deficient",
+                  "__typename": "Assessment"
+                },
+                {
+                  "type": "Fruit Intake",
+                  "name": "Low",
+                  "slug": "fruits-intake-deficient",
+                  "__typename": "Assessment"
+                },
+                {
+                  "type": "Goal",
+                  "name": "Heart",
+                  "slug": "goal-heart",
+                  "__typename": "Assessment"
+                },
+                {
+                  "type": "Sleep",
+                  "name": "Low",
+                  "slug": "sleep-insufficient",
+                  "__typename": "Assessment"
+                },
+                {
+                  "type": "Vegetable Intake",
+                  "name": "Low",
+                  "slug": "vegetables-intake-deficient",
+                  "__typename": "Assessment"
+                }
+              ],
+              "assets": null,
+              "__typename": "Product"
+            },
+            {
+              "id": "a4e6584e-b964-414f-9190-eec00b10b290",
+              "slug": null,
+              "name": "Electrolytes",
+              "category": "dietarySupplement",
+              "features": [
+                "proteinBooster"
+              ],
+              "pricing": null,
+              "shortDescription": "A combination of sodium, potassium, and magnesium, to replenish that lost through sweat. May help reduce muscle cramps, and fatigue.",
+              "longDescription": null,
+              "serving": {
+                "unit": null,
+                "quantity": 1,
+                "__typename": "Serving"
+              },
+              "servingCount": null,
+              "products": null,
+              "ingredients": [
+                {
+                  "id": "aceda365-51fd-49ee-8b68-be2016325399",
+                  "slug": "potassium",
+                  "name": "Potassium (Amino Acid Chelate, Glycinate Chelate)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "855a805f-d8f4-4e94-9e4d-790751ab5234",
+                  "slug": "sodium",
+                  "name": "Sodium",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "8a78c47b-d77b-4dd5-975c-bf6641da941d",
+                  "slug": "magnesium",
+                  "name": "Magnesium (Magnesium Oxide, Magnesium Amino Acid Chelate, TRAACS Mg Glycinate)",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                }
+              ],
+              "assessments": [
+                {
+                  "type": "BMI",
+                  "name": "Obese",
+                  "slug": "bmi-obese",
+                  "__typename": "Assessment"
+                },
+                {
+                  "type": "Goal",
+                  "name": "Heart",
+                  "slug": "goal-heart",
+                  "__typename": "Assessment"
+                },
+                {
+                  "type": "Sleep",
+                  "name": "Low",
+                  "slug": "sleep-insufficient",
+                  "__typename": "Assessment"
+                }
+              ],
+              "assets": null,
+              "__typename": "Product"
+            },
+            {
+              "id": "1a6d646e-c207-42d5-9acf-29db30023cf0",
+              "slug": null,
+              "name": "Probiotics",
+              "category": "dietarySupplement",
+              "features": [
+                "proteinBooster"
+              ],
+              "pricing": null,
+              "shortDescription": "Provides 1B CFUs of B. Coagulans, which has been shown to assist with protein and carbohydrate digestion and maximize benefits associated with protein supplementation.",
+              "longDescription": null,
+              "serving": {
+                "unit": null,
+                "quantity": 1,
+                "__typename": "Serving"
+              },
+              "servingCount": null,
+              "products": null,
+              "ingredients": [
+                {
+                  "id": "5247de68-a24f-42ca-b53f-f09530c2f538",
+                  "slug": "probiotics-bacillus-coagulans",
+                  "name": "Probiotics Bacillus coagulans",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                }
+              ],
+              "assessments": [
+                {
+                  "type": "Probiotics Intake",
+                  "name": "Very Low",
+                  "slug": "probiotics-intake-very-deficient",
+                  "__typename": "Assessment"
+                },
+                {
+                  "type": "Sports",
+                  "name": "None",
+                  "slug": "sports-none",
+                  "__typename": "Assessment"
+                }
+              ],
+              "assets": null,
+              "__typename": "Product"
+            },
+            {
+              "id": "dff67e3e-91fb-4b7c-a7d7-d1b4244e49d9",
+              "slug": null,
+              "name": "Whole Foods Blend",
+              "category": "dietarySupplement",
+              "features": [
+                "proteinBooster"
+              ],
+              "pricing": null,
+              "shortDescription": "Made-up of cold-pressed alfalfa, barley, and wheat grass. One serving of supergreens powder is comparable to one standard serving of vegetables.",
+              "longDescription": null,
+              "serving": {
+                "unit": null,
+                "quantity": 1,
+                "__typename": "Serving"
+              },
+              "servingCount": null,
+              "products": null,
+              "ingredients": [
+                {
+                  "id": "71a5ccfe-83eb-4dc8-b65e-b20692147d3b",
+                  "slug": "alfalfa-grass-powder",
+                  "name": "Alfalfa Grass Juice Powder",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "f534408f-7de1-4d3c-ac80-c25534ec9635",
+                  "slug": "barley-grass-powder",
+                  "name": "Barley Grass Juice Powder",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "cbb6e704-34d3-4e26-b811-ccead5da2be1",
+                  "slug": "wheat-grass-powder",
+                  "name": "Wheat Grass Juice Powder",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                }
+              ],
+              "assessments": [
+                {
+                  "type": "Sports",
+                  "name": "None",
+                  "slug": "sports-none",
+                  "__typename": "Assessment"
+                },
+                {
+                  "type": "Vegetable Intake",
+                  "name": "Low",
+                  "slug": "vegetables-intake-deficient",
+                  "__typename": "Assessment"
+                }
+              ],
+              "assets": null,
+              "__typename": "Product"
+            },
+            {
+              "id": "a05cac7a-fafb-4448-a8b9-fe8f1bd5a1c4",
+              "slug": null,
+              "name": "EAA",
+              "category": "dietarySupplement",
+              "features": [
+                "proteinBooster"
+              ],
+              "pricing": null,
+              "shortDescription": "Made-up of essential amino acids (EAAs) which promote muscle synthesis and reduce breakdown during and after exercise.",
+              "longDescription": null,
+              "serving": {
+                "unit": null,
+                "quantity": 1,
+                "__typename": "Serving"
+              },
+              "servingCount": null,
+              "products": null,
+              "ingredients": [
+                {
+                  "id": "941f03d9-1fb8-4ed3-96d9-44f55e82819d",
+                  "slug": "lysine",
+                  "name": "Lysine",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "6cea9c3b-c639-4d1a-b801-7f5caf987b0c",
+                  "slug": "leucine",
+                  "name": "Leucine",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "4a631032-a281-4c4b-b4c5-b05d68d04e29",
+                  "slug": "valine",
+                  "name": "Valine",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "fbd68c36-3190-4c14-a5e4-a75b5e30800f",
+                  "slug": "threonine",
+                  "name": "Threonine",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "69ac6acf-bbbe-476b-b014-6744cc686188",
+                  "slug": "phenylalanine",
+                  "name": "Phenylalanine",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "3fec2877-67b8-4887-91b7-b08a229443ee",
+                  "slug": "methionine",
+                  "name": "Methionine",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "4032a8f5-5ecb-4b0a-b54a-b1baea195e35",
+                  "slug": "isoleucine",
+                  "name": "Isoleucine",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "9acbaf90-b66a-4306-a649-a763f3e30312",
+                  "slug": "histidine",
+                  "name": "Histidine",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "d490453b-29c5-4d7b-9b0b-9c0790e6efb7",
+                  "slug": "tryptophan",
+                  "name": "Tryptophan",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                }
+              ],
+              "assessments": [
+                {
+                  "type": "BMI",
+                  "name": "Obese",
+                  "slug": "bmi-obese",
+                  "__typename": "Assessment"
+                }
+              ],
+              "assets": null,
+              "__typename": "Product"
+            },
+            {
+              "id": "cbd01075-a3e1-4091-822a-0d0daac28052",
+              "slug": null,
+              "name": "Whey Protein Isolate",
+              "category": "dietarySupplement",
+              "features": [
+                "protein"
+              ],
+              "pricing": null,
+              "shortDescription": "Our Whey Protein Isolate is sourced from non-GMO fed U.S. cows never treated with hormones or antibiotics. This easy-to-digest protein provides all of the essential amino acids needed after training to support muscle recovery and synthesis.",
+              "longDescription": null,
+              "serving": {
+                "unit": "g",
+                "quantity": 35.6,
+                "__typename": "Serving"
+              },
+              "servingCount": null,
+              "products": null,
+              "ingredients": [
+                {
+                  "id": "e1f030c5-b90f-4f40-9125-4d39f335e803",
+                  "slug": "whey-protein",
+                  "name": "Whey Protein Isolate",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                },
+                {
+                  "id": "6cea9c3b-c639-4d1a-b801-7f5caf987b0c",
+                  "slug": "leucine",
+                  "name": "Leucine",
+                  "category": null,
+                  "shortDescription": "",
+                  "longDescription": "",
+                  "__typename": "Ingredient"
+                }
+              ],
+              "assessments": [
+                {
+                  "type": "BMI",
+                  "name": "Obese",
+                  "slug": "bmi-obese",
+                  "__typename": "Assessment"
+                }
+              ],
+              "assets": null,
+              "__typename": "Product"
+            },
+            {
+              "id": "9e1a3dbe-0fac-4148-95ad-0217e15264fd",
+              "slug": "plain-flavor",
+              "name": "Plain Flavor",
+              "category": "dietarySupplement",
+              "features": [
+                "proteinFlavor"
+              ],
+              "pricing": null,
+              "shortDescription": "Unflavored and unsweetened.",
+              "longDescription": null,
+              "serving": {
+                "unit": null,
+                "quantity": 1,
+                "__typename": "Serving"
+              },
+              "servingCount": null,
+              "products": null,
+              "ingredients": [],
+              "assessments": [],
+              "assets": null,
+              "__typename": "Product"
+            }
+          ],
+          "ingredients": [
+            {
+              "id": "460f5dbf-169f-4f42-80a2-20d80dfa7d66",
+              "slug": "calcium",
+              "name": "Calcium (Amino Acid Chelate, Ascorbate, Carbonate, Citrate)",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 312,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "8a78c47b-d77b-4dd5-975c-bf6641da941d",
+              "slug": "magnesium",
+              "name": "Magnesium (Magnesium Oxide, Magnesium Amino Acid Chelate, TRAACS Mg Glycinate)",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 130.2,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "7b5d4990-a163-4633-8432-a1346086499a",
+              "slug": "zinc",
+              "name": "Zinc (Bisglycinate Chelate, Monomethionine, Amino Acid Chelate)",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 2.75,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "bdae4ede-40a9-4c40-b808-d49c13dbef86",
+              "slug": "choline",
+              "name": "Choline (Choline Bitartrate, Citicoline-Cognizin®, Citicoline CDP choline)",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 137.5,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "f7de6b6f-551f-462f-a6eb-dcae124c8f1d",
+              "slug": "vitamin-a",
+              "name": "Vitamin A (Acetate, Beta Carotene, as natural Beta Carotene, D. Salina, From Fish Liver Oil, Retinyl Palmitate)",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 225,
+                "unit": "mcg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "d06c8026-1d6a-45b3-9cf9-3c3dc1045d9c",
+              "slug": "thiamine",
+              "name": "Vitamin B-1 (Thiamine Mononitrate)",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 0.3,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "5ad7f32a-d28f-4411-8c08-86c0aac3b5f6",
+              "slug": "riboflavin",
+              "name": "Vitamin B-2 (Riboflavin)",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 0.325,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "936b0475-6001-495e-aace-9a8df70f5ff7",
+              "slug": "niacin",
+              "name": "Vitamin B-3 (Niacin as Niacinamide)",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 4,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "eb79dea7-e0d6-4f98-9de0-eb77921ee0b1",
+              "slug": "vitamin-b-5",
+              "name": "Vitamin B-5 (Calcium Pantothenate)",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 1.25,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "c9657d6b-c8c8-49e0-97ec-ac2f008de26b",
+              "slug": "vitamin-b-6",
+              "name": "Vitamin B-6 (Pyridoxine Hydrochloride)",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 0.425,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "f6b74000-8b07-49a5-9064-aca6f48bcbcb",
+              "slug": "biotin",
+              "name": "Vitamin B-7 (Biotin)",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 7.5,
+                "unit": "mcg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "de7ec11e-edff-4199-960a-51bf97973fa7",
+              "slug": "vitamin-b-12",
+              "name": "Vitamin B-12 (as Methylcobalamin, Cyanocobalamin)",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 0.6,
+                "unit": "mcg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "361b6f63-eb78-40f3-97e3-765c761fa089",
+              "slug": "vitamin-c",
+              "name": "Vitamin C (Ascorbic Acid, Rose Hips, Calcium and Sodium Ascorbate, PureWay-C®)",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 22.5,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "2747ae71-4fb6-422f-83dc-f5600234b87e",
+              "slug": "vitamin-e",
+              "name": "Vitamin E (D-Alpha Tocopherol Succinate, natural d-Alpha tocophero)",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 3.75,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "21c302b2-ac3d-4484-97b3-891c1a172f6a",
+              "slug": "vitamin-d3",
+              "name": "Vitamin D (From Fish Liver Oil, Cholecalciferol, as cholecalciferol-Lichen)",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 5,
+                "unit": "mcg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "b73e61be-7a71-4822-87bf-842fad52de15",
+              "slug": "vitamin-k",
+              "name": "Vitamin K (Phytonadione & Menaquinone-7)",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 30,
+                "unit": "mcg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "aceda365-51fd-49ee-8b68-be2016325399",
+              "slug": "potassium",
+              "name": "Potassium (Amino Acid Chelate, Glycinate Chelate)",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 282,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "855a805f-d8f4-4e94-9e4d-790751ab5234",
+              "slug": "sodium",
+              "name": "Sodium",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 39,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "5247de68-a24f-42ca-b53f-f09530c2f538",
+              "slug": "probiotics-bacillus-coagulans",
+              "name": "Probiotics Bacillus coagulans",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 1000000000,
+                "unit": "cfu",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "71a5ccfe-83eb-4dc8-b65e-b20692147d3b",
+              "slug": "alfalfa-grass-powder",
+              "name": "Alfalfa Grass Juice Powder",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 150,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "f534408f-7de1-4d3c-ac80-c25534ec9635",
+              "slug": "barley-grass-powder",
+              "name": "Barley Grass Juice Powder",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 75,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "cbb6e704-34d3-4e26-b811-ccead5da2be1",
+              "slug": "wheat-grass-powder",
+              "name": "Wheat Grass Juice Powder",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 75,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "941f03d9-1fb8-4ed3-96d9-44f55e82819d",
+              "slug": "lysine",
+              "name": "Lysine",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 50,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "6cea9c3b-c639-4d1a-b801-7f5caf987b0c",
+              "slug": "leucine",
+              "name": "Leucine",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 4090,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "4a631032-a281-4c4b-b4c5-b05d68d04e29",
+              "slug": "valine",
+              "name": "Valine",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 75,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "fbd68c36-3190-4c14-a5e4-a75b5e30800f",
+              "slug": "threonine",
+              "name": "Threonine",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 50,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "69ac6acf-bbbe-476b-b014-6744cc686188",
+              "slug": "phenylalanine",
+              "name": "Phenylalanine",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 7.5,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "3fec2877-67b8-4887-91b7-b08a229443ee",
+              "slug": "methionine",
+              "name": "Methionine",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 1.5,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "4032a8f5-5ecb-4b0a-b54a-b1baea195e35",
+              "slug": "isoleucine",
+              "name": "Isoleucine",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 62.5,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "9acbaf90-b66a-4306-a649-a763f3e30312",
+              "slug": "histidine",
+              "name": "Histidine",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 2,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "d490453b-29c5-4d7b-9b0b-9c0790e6efb7",
+              "slug": "tryptophan",
+              "name": "Tryptophan",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 1.5,
+                "unit": "mg",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            },
+            {
+              "id": "e1f030c5-b90f-4f40-9125-4d39f335e803",
+              "slug": "whey-protein",
+              "name": "Whey Protein Isolate",
+              "category": null,
+              "shortDescription": "",
+              "longDescription": "",
+              "dose": {
+                "quantity": 31.76,
+                "unit": "g",
+                "__typename": "Dosage"
+              },
+              "assessments": null,
+              "assets": null,
+              "__typename": "Ingredient"
+            }
+          ],
+          "assessments": [
+            {
+              "type": "BMI",
+              "name": "Obese",
+              "slug": "bmi-obese",
+              "__typename": "Assessment"
+            },
+            {
+              "type": "Calcium Intake",
+              "name": "Low",
+              "slug": "calcium-intake-deficient",
+              "__typename": "Assessment"
+            },
+            {
+              "type": "Fruit Intake",
+              "name": "Low",
+              "slug": "fruits-intake-deficient",
+              "__typename": "Assessment"
+            },
+            {
+              "type": "Goal",
+              "name": "Heart",
+              "slug": "goal-heart",
+              "__typename": "Assessment"
+            },
+            {
+              "type": "Probiotics Intake",
+              "name": "Very Low",
+              "slug": "probiotics-intake-very-deficient",
+              "__typename": "Assessment"
+            },
+            {
+              "type": "Sleep",
+              "name": "Low",
+              "slug": "sleep-insufficient",
+              "__typename": "Assessment"
+            },
+            {
+              "type": "Sports",
+              "name": "None",
+              "slug": "sports-none",
+              "__typename": "Assessment"
+            },
+            {
+              "type": "Vegetable Intake",
+              "name": "Low",
+              "slug": "vegetables-intake-deficient",
+              "__typename": "Assessment"
+            }
+          ],
+          "assets": null,
+          "__typename": "Product"
+        }
+      ],
+      "error": false,
+      "errorMessages": null,
+      "__typename": "PreliminaryPlan"
+    }
+  }
+}
